@@ -5,7 +5,7 @@
 	"pubkey": "8ce9d3511dae89be6b11501e953a7f83a11c51378a376b2e9dfafa4ef61855c9",
 	"percentage": 80,
 	"logfile": "poollogs.json",
-	"minpayout": 1.0,
+	"minpayout": 5.0,
 	"secret": "SECRET",
 	"secondsecret": "SECRET2",
     "donations": {
